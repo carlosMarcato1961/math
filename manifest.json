@@ -1,7 +1,7 @@
 {
     "name": "math_2",
     "short_name": "math_2",
-    "start_url": ".",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#0175C2",
